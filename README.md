@@ -1,10 +1,10 @@
-# Dice Game
+# Pig Game
 
 ![Preview](preview.png)
 
 ## Description
 
-**Dice Game** is a thrilling two-player game where the first player to accumulate 50 or more points wins. Players take turns rolling a six-sided die, adding the value to their current score. However, if a player rolls a 1, they lose all their points accumulated in that turn and their turn ends immediately. The game continues until one player reaches or exceeds 50 points.
+**Pig Game** is a thrilling two-player game where the first player to accumulate 50 or more points wins. Players take turns rolling a six-sided die, adding the value to their current score. However, if a player rolls a 1, they lose all their points accumulated in that turn and their turn ends immediately. The game continues until one player reaches or exceeds 50 points.
 
 ## Rules
 
